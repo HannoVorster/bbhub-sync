@@ -1,0 +1,15 @@
+{
+  "name": "bbhub-cron",
+  "version": "1.0.0",
+  "description": "CRON for BBHub sync service",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hanno Vorster",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "express": "^4.17.3"
+  }
+}
